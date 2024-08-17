@@ -101,8 +101,6 @@ class LibroController {
         }
     }
     
-
-
 }
 
 export const Libros = new LibroController();
